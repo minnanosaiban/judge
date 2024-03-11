@@ -335,11 +335,11 @@
 <p class="idt">以上のとおり、ＮＴＴデータは、部分的であっても、Ｘ１の基本的な労働条件等を雇用主と同視できる程度に、現実的かつ具体的に支配、決定することができる地位にあるとはいえず、よって、同社は、Ｘ１又は組合との関係において、労組法上の使用者に当たるとはいえない。
 
 
-## 東京労働委員会命令書
+## 東京都労働委員会命令書
 
 ---
 
-引用元：東京労働委員会ホームページ [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) 
+引用元：東京都労働委員会ホームページ [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) 
 
 <div class="base">
 
