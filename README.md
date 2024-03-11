@@ -1,4 +1,4 @@
-# judge
+# みんなの裁判
 
 ## URL
   - https://minnanosaiban.github.io/judge/
