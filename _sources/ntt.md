@@ -7,7 +7,7 @@
 
 ---
 
-<i class="fa-solid fa-arrow-right"></i> 東京都労働委員会の命令書 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) に基づく事実から経緯を記載しています。
+<i class="fa-solid fa-arrow-right"></i> **東京都労働委員会の命令書 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) に基づく事実から経緯を記載しています。**
 
 <div class="base">
 
@@ -339,7 +339,7 @@
 
 ---
 
-東京労働委員会ホームページの命令書 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) を引用
+引用元：東京労働委員会ホームページ [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) 
 
 <div class="base">
 
