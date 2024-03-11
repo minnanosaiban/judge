@@ -7,7 +7,7 @@
 
 ---
 
-<i class="fa-solid fa-arrow-right"></i> **東京都労働委員会の命令書 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html) に基づく事実から経緯を記載しています。**
+<i class="fa-solid fa-arrow-right"></i> **東京都労働委員会命令書に基づく事実から経緯を記載しています。命令書本文はこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#honbun) に記載しています。**
 
 <div class="base">
 
@@ -47,7 +47,7 @@
 </div>
 
 
-## 命令書における判断
+## 判断まとめ
 
 ---
 
@@ -335,7 +335,7 @@
 <p class="idt">以上のとおり、ＮＴＴデータは、部分的であっても、Ｘ１の基本的な労働条件等を雇用主と同視できる程度に、現実的かつ具体的に支配、決定することができる地位にあるとはいえず、よって、同社は、Ｘ１又は組合との関係において、労組法上の使用者に当たるとはいえない。
 
 
-## 東京都労働委員会命令書
+## 命令書本文
 
 ---
 
@@ -343,7 +343,7 @@
 
 <div class="base">
 
-> <p class="q_title_c">パーソルテンプスタッフ事件命令書交付について
+> <p class="q_title_c"><a name="honbun"></a>パーソルテンプスタッフ事件命令書交付について
 > <p class="q_idt">当委員会は、３月６日、標記の不当労働行為救済申立事件について、命令書を交付しましたのでお知らせします。命令書の概要は、以下のとおりです（詳細は別紙）。
 > <p class="q_hg-idt1">１　当事者　
 > <p class="q_idt">申 立 人　Ｘ１（個人）（東京都足立区）
