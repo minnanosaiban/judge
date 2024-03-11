@@ -136,6 +136,10 @@ a {
 .c {
   margin:0em;
 }
+.c_idt {
+  text-indent:1em;
+  margin:0em;
+}
 .c_hg-idt1 {
   padding-left:1em;
   text-indent:-1em;
