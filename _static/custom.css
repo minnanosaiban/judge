@@ -1,33 +1,33 @@
 p {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   line-height:2.4;
   margin-top: 0em;
   margin-bottom: 0em;
 }
 h1 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
 }
 h2 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   margin-top:200px;
   font-size:32px;
 }
 h3 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   font-size:32px;
 }
 h4 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   font-size:32px;
 }
 hr {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   border: 2px solid #f37726;
 }
 
@@ -38,18 +38,12 @@ hr {
   border-bottom: 2px solid rgba(243,119,38,0.1);
 }
 .base {
-  margin-right: 56px;
-  margin-left: 56px;
-}
-.base_card {
-  margin-right: 16px;
-  margin-left: 16px;
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin-right: 72px;
+  margin-left: 72px;
 }
 .title_c {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   text-align:center;
   display:block;
   font-weight:bold;
@@ -57,8 +51,8 @@ hr {
   margin-bottom: 2em;
 }
 .title_l {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   text-align:left;
   display:block;
   font-weight:bold;
@@ -67,46 +61,46 @@ hr {
 }
 
 .pad1 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:1em;
 }
 .pad2 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:2em;
 }
 .pad3 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:3em;
 }
 .idt {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   text-indent:1em;
 }
 .idt1 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:1em;
   text-indent:1em;
 }
 .idt2 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:2em;
   text-indent:1em;
 }
 .hg-idt1 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:1em;
   text-indent:-1em;
 }
 .hg-idt2 {
-  margin-right: 56px;
-  margin-left: 56px;
+  margin-right: 72px;
+  margin-left: 72px;
   padding-left:2em;
   text-indent:-1em;
 }
@@ -161,8 +155,8 @@ a {
 }
 .q {
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -171,8 +165,8 @@ a {
   display:block;
   font-weight:bold;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 2em;
   margin-bottom: 2em;
 }
@@ -181,16 +175,16 @@ a {
   display:block;
   font-weight:bold;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 2em;
   margin-bottom: 2em;
 }
 .q_idt {
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -198,8 +192,8 @@ a {
   padding-left:1em;
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -207,8 +201,8 @@ a {
   padding-left:2em;
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -216,8 +210,8 @@ a {
   padding-left:3em;
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -225,8 +219,8 @@ a {
   padding-left:4em;
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -234,8 +228,8 @@ a {
   padding-left:4.5em;
   text-indent:1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -243,8 +237,8 @@ a {
   padding-left:1em;
   text-indent:-1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -252,8 +246,8 @@ a {
   padding-left:2em;
   text-indent:-1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -261,8 +255,8 @@ a {
   padding-left:3em;
   text-indent:-1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -270,8 +264,8 @@ a {
   padding-left:4em;
   text-indent:-1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -279,8 +273,8 @@ a {
   padding-left:4.5em;
   text-indent:-1em;
   font-size:14px;
-  margin-right: 40pt;
-  margin-left: 40pt;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 0;
   margin-bottom: 0;
 }
