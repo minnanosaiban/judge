@@ -18,7 +18,9 @@
 
 </div>
 
-<p class="idt" style="margin-bottom: 1.2em;">Quote枠内以外の文章や下線などの装飾は、私個人の解釈が含まれています。裁判に関連する書類は、解釈が困難な場合が多々あります。そのため、私の解釈が誤っている可能性が十分に考えられます。もし私の解釈に誤りがあると感じられる場合は、GitHub の issues や X-Twitter でご指摘いただければ幸いです。
+<p class="idt" style="margin-bottom: 1.2em;">Quote枠内以外の文章や下線などの装飾は、私個人の解釈が含まれています。裁判に関連する書類は、解釈が困難な場合が多々あります。
+
+<p class="idt" style="margin-bottom: 1.2em;">そのため、私の解釈が誤っている可能性が十分に考えられます。もし私の解釈に誤りがあると感じられる場合は、GitHub の issues や X-Twitter でご指摘いただければ幸いです。
 
 <i class="fa-brands fa-github"></i> GitHub issues [<i class="fa-solid fa-up-right-from-square"></i>](https://github.com/fuseimatome/saiban/issues)
 
