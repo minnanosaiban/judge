@@ -130,7 +130,7 @@ a {
   margin:0em;
 }
 .table1 {
-  #white-space:nowrap;
+  white-space:nowrap;
   font-size:14px;
   line-height:1.8;
   padding-right:0;
