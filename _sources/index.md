@@ -24,7 +24,7 @@
 
 <i class="fa-brands fa-github"></i> GitHub issues [<i class="fa-solid fa-up-right-from-square"></i>](https://github.com/minnanosaiban/judge/issues)
 
-<i class="fa-brands fa-square-x-twitter"></i> X-Twitter [<i class="fa-solid fa-up-right-from-square"></i>](https://twitter.com/minnanosaiban)
+<i class="fa-brands fa-twitter"></i> X-Twitter [<i class="fa-solid fa-up-right-from-square"></i>](https://twitter.com/minnanosaiban)
 
 <p  style="margin-top: 1.2em;">本ウェブサイトに用いている用語の意味は、別段の定義のない限り、判決文や主張書面などの裁判書類において定義しているものと同様です。
 

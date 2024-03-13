@@ -22,7 +22,7 @@
 <p class="q_idt">パーソルの対応が原因で団体交渉開催が１カ月以上遅れたことについて、パーソルにはやむを得ない事情があった。さらに、４回の交渉を通じて、団体交渉は正常に進んでおり、団体交渉の実質が損なわれたなどと評価することはできない。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-1) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-1) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　組合は、４月９日付団交申入書にて、
 
@@ -62,7 +62,7 @@
 <p class="q_idt">雇用期間終了の１か月前の時期に、Ｘ１と雇用契約に係るやり取りがされないままに、パーソルが雇止めを告げたことについてはやむを得なかった。さらに、計４回にわたって団体交渉において、組合の求めに応じて相応の対応をしているなどにより、組合に対するパーソルの姿勢が敵対的であったといえるような事情も特に窺われない。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-2) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-2) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　Ｘ１は、４月３日の早退の際に、両社に対し、同人への連絡を拒否すること及び今後の対応を第三者に委ねる旨を通告し、「第三者」についても何ら具体的に明示していない。
 
@@ -98,7 +98,7 @@
 <p class="q_idt">パーソルは自社の把握する事実関係とそれに対する認識をくり返し説明しており、さらに、組合の求めに応じて、事実関係やその認識について、あらかじめ文書にて回答するとともに、派遣契約書や３６協定書などの資料を開示して説明を行っている。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-3) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-3) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　計４回の団体交渉においては、事実の有無や認識を確認するやり取りに多くの時間が割かれているところ、パーソルは自社の把握する事実関係とそれに対する認識をくり返し説明しており、それらが変遷している事情も窺われないことから、パーソルが回答拒否、虚偽説明及び派遣先事業主へ責任転嫁する発言を繰り返していたというＸ１の主張を採用することはできない。
 
@@ -142,7 +142,7 @@
 <p class="q_idt">Ｘ１が就業時間終了の１０分前に退社したことは、Ｘ１に非が無かったとはいい難く、また、その後のＸ１の対応は、ＮＴＴデータ及びパーソルを非難するのみであり、連絡を拒んだ上で、現状報告や今後の見通し等の連絡を行うこともなく欠勤を続けるととともに、スタッフ相談室に対して、複数回にわたって感情的なメールを送付していることからすれば、就業時間終了の１０分前に退社したことに対しては、より強い姿勢で臨んだとしても、無理からぬことであったというべきである。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-i) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-i) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　パーソルが確約書の提出を指示するに至った経緯をみると、Ｘ１が４月２３日に就業時間終了の１０分前に退社したことは、業務に従事すべき勤務時間中であるにもかかわらず、派遣先及び派遣元のいずれの許可も得ずに就業場所から立ち去ったものであり、たとえ短時間であっても業務への従事を放棄した点においては、Ｘ１に非が無かったとはいい難い。
 
@@ -179,7 +179,7 @@
 <p class="q_idt">雇止め理由書を送付すること自体が特段問題視されるものとみることはできない。さらに、Ｘ１は、雇止め理由書を組合に交付することを求めていたとはいえるものの、雇止め理由書は、本来、雇用主が被用者に交付すべきものである。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-u) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-u) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　Ｘ１は、
 
@@ -211,7 +211,7 @@
 
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-5) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-5) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　労組法第７条第４号の報復的不利益取扱いは、不当労働行為救済申立てをしたことを理由とした不利益取扱いであるところ、上記行政指導の実施時期をみると、
 
@@ -255,7 +255,7 @@
 
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-i) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-i) から引用し、若干加工したものです。</span>
 
 <p class="q_hg-idt1">１　①従事業務の特定及び②時間外労働時間の上限について、組合が協議を求めたのは、就業条件明示書の記載事項における正誤関係というべきであり、それらは、Ｘ１が派遣就業する際の諸条件として、派遣元とＸ１との雇用契約関係の下で決定される事項であり、また、派遣先であるＮＴＴデータが、就業条件明示書に記載された業務内容を明らかに超えた業務を命じていたとか、時間外労働時間の上限を超える時間外労働を命じていたなどの事情も認められない。
 
@@ -281,7 +281,7 @@
 
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-ｳ) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-u) から引用し、若干加工したものです。</span>
 
 <p class="q_idt">Ｘ１の雇止め（争点６－４）については、パーソルが、Ｘ１に雇止めを通知するとともに雇止め理由書を交付していることを踏まえると、パーソルがＸ１の雇止めを決定していたとみるのが相当であり、その他、パーソルが別個独立した企業体としての実質を欠き、その意思決定をＮＴＴデータが事実上支配、決定していたなどといえる事情もない。なお、Ｘ１の雇用契約はいわゆる登録型派遣の形態であるから、ＮＴＴデータが派遣契約を更新しないことが、パーソルがＸ１の雇用契約を更新しないことの理由になることは現実にあり得るものの、ＮＴＴデータが派遣契約を更新しないこと自体は、派遣法に基づく労働者派遣の枠組みの範囲内の行為というべきであり、そのことを受けて雇用主であるパーソルが同人の雇用契約を更新しなかったとしても、ＮＴＴデータが同人の雇用を支配、決定しているなどとみることもできない。
 
@@ -313,7 +313,7 @@
 <p class="q_idt">ＮＴＴデータがＸ１の何らかの労働条件を直接左右していたといえる事情も認められない。
 ````
 
-```{dropdown} <span class="title_q">以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-ｴ) から引用し、若干加工したものです。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-e) から引用し、若干加工したものです。</span>
 
 <p class="q_idt">ＮＴＴデータの行為とＸ１の具体的な労働条件との関連を認めるに足りる事実の疎明がなされているとはいえず、また、同社が派遣先の指揮命令権を行使する立場を超えて、部分的であっても、Ｘ１の何らかの労働条件を直接左右していたといえる事情も認められない。
 
