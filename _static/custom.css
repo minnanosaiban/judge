@@ -18,6 +18,7 @@ h2 {
 h3 {
   margin-right: 72px;
   margin-left: 72px;
+  margin-top:200px;
   font-size:32px;
 }
 h4 {
@@ -169,18 +170,21 @@ a {
   margin:0em;
 }
 .q_pad1 {
+  font-size:14px;
   margin-right: 16pt;
   margin-left: 16pt;
   padding-left:1em;
   margin-bottom: 0;
 }
 .q_pad2 {
+  font-size:14px;
   margin-right: 16pt;
   margin-left: 16pt;
   padding-left:2em;
   margin-bottom: 0;
 }
 .q_pad3 {
+  font-size:14px;
   margin-right: 16pt;
   margin-left: 16pt;
   padding-left:3em;
@@ -333,6 +337,7 @@ a {
   h3 {
     margin-right:0;
     margin-left:0;
+    margin-top:200px;
     font-size:32px;
   }
   h4 {
@@ -376,16 +381,19 @@ a {
   }
   
   .pad1 {
+    font-size:14px;
     margin-right:0;
     margin-left:0;
     padding-left:1em;
   }
   .pad2 {
+    font-size:14px;
     margin-right:0;
     margin-left:0;
     padding-left:2em;
   }
   .pad3 {
+    font-size:14px;
     margin-right:0;
     margin-left:0;
     padding-left:3em;
