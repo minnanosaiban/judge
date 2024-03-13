@@ -59,6 +59,17 @@ hr {
   margin-top: 2em;
   margin-bottom: 2em;
 }
+.title_q {
+  font-size:14px;
+  font-weight:normal;
+  margin: 0;
+}
+.title_ad {
+  font-size:14px;
+  color:#f37726;
+  font-weight:normal;
+  margin: 0;
+}
 
 .pad1 {
   margin-right: 72px;
@@ -118,7 +129,7 @@ a {
   margin:0em;
 }
 .table1 {
-  white-space:nowrap;
+  #white-space:nowrap;
   font-size:14px;
   line-height:1.8;
   padding-right:0;
@@ -156,6 +167,24 @@ a {
   padding-left:2em;
   text-indent:-1em;
   margin:0em;
+}
+.q_pad1 {
+  margin-right: 16pt;
+  margin-left: 16pt;
+  padding-left:1em;
+  margin-bottom: 0;
+}
+.q_pad2 {
+  margin-right: 16pt;
+  margin-left: 16pt;
+  padding-left:2em;
+  margin-bottom: 0;
+}
+.q_pad3 {
+  margin-right: 16pt;
+  margin-left: 16pt;
+  padding-left:3em;
+  margin-bottom: 0;
 }
 .q {
   font-size:14px;
@@ -391,7 +420,18 @@ a {
     text-indent:-1em;
   }
 
-  
+.q_pad1 {
+  padding-left:1em;
+  margin: 0;
+}
+.q_pad2 {
+  padding-left:2em;
+  margin: 0;
+}
+.q_pad3 {
+  padding-left:3em;
+  margin: 0;
+  }
 .q {
   font-size:14px;
   margin: 0;
