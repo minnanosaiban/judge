@@ -18,8 +18,8 @@
 ````{card} <span class="title_q">申立人の <span style="color: #FF0000;">change.org</span> から</span>
 :link: https://chng.it/QTjj9xpQyT
 
-<div style="display: flex; align-items: center;">
-    <img src="https://assets.change.org/photos/4/on/bl/VXOnbLanvKYuonP-800x450-noPad.jpg?1664709912" alt="altテキスト" height="160" style="float: left; margin-right: 10px;">
+<div class="container">
+    <img class="image_card" src="https://assets.change.org/photos/4/on/bl/VXOnbLanvKYuonP-800x450-noPad.jpg?1664709912">
     <p class="c">このオンライン署名に賛同をお願いします。<br>「<span class="u_rd">派遣制度を悪用する</span>派遣先企業と派遣会社を許さないでください。」</p>
 </div>
 

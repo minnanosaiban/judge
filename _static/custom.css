@@ -28,6 +28,16 @@ hr {
   margin-right: 72px;
   margin-left: 72px;
 }
+.container {
+  display: flex;
+  align-items: center;
+}
+.image_card {
+  float: left;
+  height: 160px;
+  margin-right: 10px;
+}
+
 
 .u_rd {
   border-bottom: 2px solid #FF0000;
