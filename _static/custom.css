@@ -28,16 +28,24 @@ hr {
   margin-right: 72px;
   margin-left: 72px;
 }
-.container {
+.linkcard {
   display: flex;
   align-items: center;
 }
-.image_card {
+.linkcard_img {
   float: left;
   height: 160px;
   margin-right: 10px;
 }
-
+.linkcard_text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
 
 .u_rd {
   border-bottom: 2px solid #FF0000;
@@ -444,6 +452,23 @@ p {
     margin-top: 16px;
     margin-bottom: 16px;
   }
+  .linkcard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .linkcard_img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .linkcard_text {
+    position: static;
+    width: auto;
+    padding: 0;
+    text-align: left;
+  }
+  
 
   p {
     margin-right:0;
