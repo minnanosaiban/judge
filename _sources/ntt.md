@@ -15,7 +15,7 @@
 
 <div class="base">
 
-````{card} <span class="title_q">申立人の<span style="color: #FF0000;">change.org</span> から</span>
+````{card} <span class="title_q">申立人の <span style="color: #FF0000;">change.org</span> から</span>
 :link: https://chng.it/QTjj9xpQyT
 
 <div style="display: flex; align-items: center;">
