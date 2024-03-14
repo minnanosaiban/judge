@@ -29,6 +29,9 @@ hr {
   margin-left: 72px;
 }
 
+.u_rd {
+  border-bottom: 2px solid #FF0000;
+}
 .u_or {
   border-bottom: 2px solid #f37726;
 }

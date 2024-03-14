@@ -3,6 +3,30 @@
 # ＮＴＴデータ・パーソルテンプスタッフ事件（東京都労働委員会）
 
 
+## 当事者
+
+---
+
+申 立 人　Ｘ１（ＮＴＴデータに派遣されて業務に従事していた従業員）
+
+被申立人　パーソルテンプスタッフ株式会社（以下「パーソル」といいます）
+
+被申立人　株式会社ＮＴＴデータ（以下「ＮＴＴデータ」といいます）
+
+<div class="base">
+
+````{card} <span class="title_q">申立人の<span style="color: #FF0000;">change.org</span> から</span>
+:link: https://chng.it/QTjj9xpQyT
+
+<div style="display: flex; align-items: center;">
+    <img src="https://assets.change.org/photos/4/on/bl/VXOnbLanvKYuonP-800x450-noPad.jpg?1664709912" alt="altテキスト" height="160" style="float: left; margin-right: 10px;">
+    <p class="c">このオンライン署名に賛同をお願いします。<br>「<span class="u_rd">派遣制度を悪用する</span>派遣先企業と派遣会社を許さないでください。」</p>
+</div>
+
+````
+
+</div>
+
 
 ## 争点と判断
 
