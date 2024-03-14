@@ -1,10 +1,3 @@
-p {
-  margin-right: 72px;
-  margin-left: 72px;
-  line-height:2.4;
-  margin-top: 0em;
-  margin-bottom: 0em;
-}
 h1 {
   margin-right: 72px;
   margin-left: 72px;
@@ -31,6 +24,10 @@ hr {
   margin-left: 72px;
   border: 2px solid #f37726;
 }
+.base {
+  margin-right: 72px;
+  margin-left: 72px;
+}
 
 .u_or {
   border-bottom: 2px solid #f37726;
@@ -38,40 +35,60 @@ hr {
 .u_ora {
   border-bottom: 2px solid rgba(243,119,38,0.1);
 }
-.base {
-  margin-right: 72px;
-  margin-left: 72px;
+a {
+  text-decoration: none;
 }
-.title_c {
-  margin-right: 72px;
-  margin-left: 72px;
-  text-align:center;
+.top {
+  margin:0em;
+  font-size:12px;
+  color:#f37726;
+  text-align:right;
   display:block;
   font-weight:bold;
-  margin-top: 2em;
-  margin-bottom: 2em;
 }
-.title_l {
-  margin-right: 72px;
-  margin-left: 72px;
-  text-align:left;
-  display:block;
-  font-weight:bold;
-  margin-top: 2em;
-  margin-bottom: 2em;
+.table1 {
+  padding-right:0;
+  padding-left:0;
+  margin-right:0;
+  margin-left:0;
+  margin-top:0;
+  margin-bottom:1.2em;
+  white-space:nowrap;
+  font-size:14px;
+  line-height:1.8;
+}
+.table2 {
+  padding-right:0;
+  padding-left:0;
+  margin-right:0;
+  margin-left:0;
+  margin-top:0;
+  margin-bottom:1.2em;
+  font-size:14px;
+  line-height:1.8;
+  padding-left:1em;
+  text-indent:-1em;
 }
 .title_q {
+  margin: 0;
   font-size:14px;
   font-weight:normal;
-  margin: 0;
 }
 .title_ad {
+  margin: 0;
   font-size:14px;
   color:#f37726;
   font-weight:normal;
-  margin: 0;
 }
 
+
+p {
+  margin-right: 72px;
+  margin-left: 72px;
+  line-height:2.4;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
 .pad1 {
   margin-right: 72px;
   margin-left: 72px;
@@ -116,58 +133,125 @@ hr {
   padding-left:2em;
   text-indent:-1em;
 }
-
-
-a {
-  text-decoration: none;
-}
-.top {
-  font-size:12px;
-  color:#f37726;
-  text-align:right;
+.title_c {
+  margin-right: 72px;
+  margin-left: 72px;
+  text-align:center;
   display:block;
   font-weight:bold;
-  margin:0em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
-.table1 {
-  white-space:nowrap;
-  font-size:14px;
-  line-height:1.8;
-  padding-right:0;
-  padding-left:0;
-  margin-right:0;
-  margin-left:0;
-  margin-top:0;
-  margin-bottom:1.2em;
+.title_l {
+  margin-right: 72px;
+  margin-left: 72px;
+  text-align:left;
+  display:block;
+  font-weight:bold;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
-.table2 {
-  font-size:14px;
-  line-height:1.8;
-  padding-left:1em;
-  text-indent:-1em;
-  padding-right:0;
-  padding-left:0;
-  margin-right:0;
-  margin-left:0;
-  margin-top:0;
-  margin-bottom:1.2em;
-}
+
+
 .c {
+  font-size:14px;
   margin:0em;
+}
+.c_pad1 {
+  font-size:14px;
+  margin:0em;
+  padding-left:1em;
+}
+.c_pad2 {
+  font-size:14px;
+  margin:0em;
+  padding-left:2em;
+}
+.c_pad3 {
+  font-size:14px;
+  margin:0em;
+  padding-left:3em;
+}
+.c_title_c {
+  text-align:center;
+  display:block;
+  font-weight:bold;
+  font-size:14px;
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.c_title_l {
+  text-align:left;
+  display:block;
+  font-weight:bold;
+  font-size:14px;
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .c_idt {
   text-indent:1em;
+  font-size:14px;
+  margin:0em;
+}
+.c_idt1 {
+  padding-left:1em;
+  text-indent:1em;
+  font-size:14px;
+  margin:0em;
+}
+.c_idt2 {
+  padding-left:2em;
+  text-indent:1em;
+  font-size:14px;
+  margin:0em;
+}
+.c_idt3 {
+  padding-left:3em;
+  text-indent:1em;
+  font-size:14px;
+  margin:0em;
+}
+.c_idt4 {
+  padding-left:4em;
+  text-indent:1em;
+  font-size:14px;
   margin:0em;
 }
 .c_hg-idt1 {
   padding-left:1em;
   text-indent:-1em;
+  font-size:14px;
   margin:0em;
 }
 .c_hg-idt2 {
   padding-left:2em;
   text-indent:-1em;
+  font-size:14px;
   margin:0em;
+}
+.c_hg-idt3 {
+  padding-left:3em;
+  text-indent:-1em;
+  font-size:14px;
+  margin:0em;
+}
+.c_hg-idt4 {
+  padding-left:4em;
+  text-indent:-1em;
+  font-size:14px;
+  margin:0em;
+}
+
+.q {
+  font-size:14px;
+  margin-right: 16pt;
+  margin-left: 16pt;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .q_pad1 {
   font-size:14px;
@@ -188,13 +272,6 @@ a {
   margin-right: 16pt;
   margin-left: 16pt;
   padding-left:3em;
-  margin-bottom: 0;
-}
-.q {
-  font-size:14px;
-  margin-right: 16pt;
-  margin-left: 16pt;
-  margin-top: 0;
   margin-bottom: 0;
 }
 .q_title_c {
@@ -317,13 +394,6 @@ a {
 }
 
 @media only screen and (max-width: 767px) {
-  p {
-    margin-right:0;
-    margin-left:0;
-    line-height:2.4;
-    margin-top: 0em;
-    margin-bottom: 0em;
-  }
   h1 {
     margin-right:0;
     margin-left:0;    
@@ -361,25 +431,14 @@ a {
     margin-top: 16px;
     margin-bottom: 16px;
   }
-  .title_c {
+
+  p {
     margin-right:0;
     margin-left:0;
-    text-align:center;
-    display:block;
-    font-weight:bold;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    line-height:2.4;
+    margin-top: 0em;
+    margin-bottom: 0em;
   }
-  .title_l {
-    margin-right:0;
-    margin-left:0;
-    text-align:left;
-    display:block;
-    font-weight:bold;
-    margin-top: 2em;
-    margin-bottom: 2em;
-  }
-  
   .pad1 {
     font-size:14px;
     margin-right:0;
@@ -427,100 +486,118 @@ a {
     padding-left:2em;
     text-indent:-1em;
   }
-
-.q_pad1 {
-  padding-left:1em;
-  margin: 0;
-}
-.q_pad2 {
-  padding-left:2em;
-  margin: 0;
-}
-.q_pad3 {
-  padding-left:3em;
-  margin: 0;
+  .title_c {
+    margin-right:0;
+    margin-left:0;
+    text-align:center;
+    display:block;
+    font-weight:bold;
+    margin-top: 2em;
+    margin-bottom: 2em;
   }
-.q {
-  font-size:14px;
-  margin: 0;
-}
-.q_title_c {
-  text-align:left;
-  display:block;
-  font-weight:bold;
-  font-size:14px;
-  margin: 0;
-}
-.q_title_l {
-  text-align:left;
-  display:block;
-  font-weight:bold;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt {
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt1 {
-  padding-left:1em;
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt2 {
-  padding-left:2em;
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt3 {
-  padding-left:3em;
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt4 {
-  padding-left:4em;
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_idt45 {
-  padding-left:4.5em;
-  text-indent:1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_hg-idt1 {
-  padding-left:1em;
-  text-indent:-1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_hg-idt2 {
-  padding-left:2em;
-  text-indent:-1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_hg-idt3 {
-  padding-left:3em;
-  text-indent:-1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_hg-idt4 {
-  padding-left:4em;
-  text-indent:-1em;
-  font-size:14px;
-  margin: 0;
-}
-.q_hg-idt45 {
-  padding-left:4.5em;
-  text-indent:-1em;
-  font-size:14px;
-  margin: 0;
-}
-}
+  .title_l {
+    margin-right:0;
+    margin-left:0;
+    text-align:left;
+    display:block;
+    font-weight:bold;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+  .q {
+    font-size:14px;
+    margin: 0;
+  }
+  .q_pad1 {
+    padding-left:1em;
+    margin: 0;
+  }
+  .q_pad2 {
+    padding-left:2em;
+    margin: 0;
+  }
+  .q_pad3 {
+    padding-left:3em;
+    margin: 0;
+  }
+  .q_title_c {
+    text-align:left;
+    display:block;
+    font-weight:bold;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_title_l {
+    text-align:left;
+    display:block;
+    font-weight:bold;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt {
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt1 {
+    padding-left:1em;
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt2 {
+    padding-left:2em;
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt3 {
+    padding-left:3em;
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt4 {
+    padding-left:4em;
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_idt45 {
+    padding-left:4.5em;
+    text-indent:1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_hg-idt1 {
+    padding-left:1em;
+    text-indent:-1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_hg-idt2 {
+    padding-left:2em;
+    text-indent:-1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_hg-idt3 {
+    padding-left:3em;
+    text-indent:-1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_hg-idt4 {
+    padding-left:4em;
+    text-indent:-1em;
+    font-size:14px;
+    margin: 0;
+  }
+  .q_hg-idt45 {
+    padding-left:4.5em;
+    text-indent:-1em;
+    font-size:14px;
+    margin: 0;
+  }
+  }
