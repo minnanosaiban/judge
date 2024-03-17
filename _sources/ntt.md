@@ -43,7 +43,7 @@
 <p class="c_idt">パーソルの対応が原因で団体交渉開催が１カ月以上遅れたことについて、パーソルにはやむを得ない事情があった。さらに、４回の交渉を通じて、団体交渉は正常に進んでおり、団体交渉の実質が損なわれたなどと評価することはできない。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-1) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-1) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　組合は、４月９日付団交申入書にて、
 
@@ -83,7 +83,7 @@
 <p class="c_idt">雇用期間終了の１か月前の時期に、Ｘ１と雇用契約に係るやり取りがされないままに、パーソルが雇止めを告げたことについてはやむを得なかった。さらに、計４回にわたって団体交渉において、組合の求めに応じて相応の対応をしているなどにより、組合に対するパーソルの姿勢が敵対的であったといえるような事情も特に窺われない。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-2) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-2) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　Ｘ１は、４月３日の早退の際に、両社に対し、同人への連絡を拒否すること及び今後の対応を第三者に委ねる旨を通告し、「第三者」についても何ら具体的に明示していない。
 
@@ -116,7 +116,7 @@
 <p class="c_idt">パーソルは自社の把握する事実関係とそれに対する認識をくり返し説明しており、さらに、組合の求めに応じて、事実関係やその認識について、あらかじめ文書にて回答するとともに、派遣契約書や３６協定書などの資料を開示して説明を行っている。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-3) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-3) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　計４回の団体交渉においては、事実の有無や認識を確認するやり取りに多くの時間が割かれているところ、パーソルは自社の把握する事実関係とそれに対する認識をくり返し説明しており、それらが変遷している事情も窺われないことから、パーソルが回答拒否、虚偽説明及び派遣先事業主へ責任転嫁する発言を繰り返していたというＸ１の主張を採用することはできない。
 
@@ -140,7 +140,7 @@
 <p class="c_idt">申立期間を徒過した不適法なものとして却下を免れない。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-a) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-a) からの引用を若干補正しています。</span>
 
 <p class="c_idt">Ｘ１は、平成３１年４月２２日の面談におけるパーソルの対応が組合の運営に対する支配介入に当たる旨を主張するが、令和２年４月２３日の２不４１号事件申立ては、上記行為の日から１年を経過しており、平成３１年４月２２日の面談に係る２不４１号事件申立ては、申立期間を徒過した不適法なものとして却下を免れない。
 
@@ -160,7 +160,7 @@
 <p class="c_idt">Ｘ１が就業時間終了の１０分前に退社したことは、Ｘ１に非が無かったとはいい難く、また、その後のＸ１の対応は、ＮＴＴデータ及びパーソルを非難するのみであり、連絡を拒んだ上で、現状報告や今後の見通し等の連絡を行うこともなく欠勤を続けるととともに、スタッフ相談室に対して、複数回にわたって感情的なメールを送付していることからすれば、就業時間終了の１０分前に退社したことに対しては、より強い姿勢で臨んだとしても、無理からぬことであったというべきである。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-i) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-i) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　パーソルが確約書の提出を指示するに至った経緯をみると、Ｘ１が４月２３日に就業時間終了の１０分前に退社したことは、業務に従事すべき勤務時間中であるにもかかわらず、派遣先及び派遣元のいずれの許可も得ずに就業場所から立ち去ったものであり、たとえ短時間であっても業務への従事を放棄した点においては、Ｘ１に非が無かったとはいい難い。
 
@@ -196,7 +196,7 @@
 <p class="c_idt">雇止め理由書を送付すること自体が特段問題視されるものとみることはできない。さらに、Ｘ１は、雇止め理由書を組合に交付することを求めていたとはいえるものの、雇止め理由書は、本来、雇用主が被用者に交付すべきものである。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-u) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-4-u) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　Ｘ１は、
 
@@ -228,7 +228,7 @@
 
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-5) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-5) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　労組法第７条第４号の報復的不利益取扱いは、不当労働行為救済申立てをしたことを理由とした不利益取扱いであるところ、上記行政指導の実施時期をみると、
 
@@ -272,7 +272,7 @@
 
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-i) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-i) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　①従事業務の特定及び②時間外労働時間の上限について、組合が協議を求めたのは、就業条件明示書の記載事項における正誤関係というべきであり、それらは、Ｘ１が派遣就業する際の諸条件として、派遣元とＸ１との雇用契約関係の下で決定される事項であり、また、派遣先であるＮＴＴデータが、就業条件明示書に記載された業務内容を明らかに超えた業務を命じていたとか、時間外労働時間の上限を超える時間外労働を命じていたなどの事情も認められない。
 
@@ -298,7 +298,7 @@
 
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-u) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-u) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　Ｘ１の雇止め（争点６－４）については、パーソルが、Ｘ１に雇止めを通知するとともに雇止め理由書を交付していることを踏まえると、パーソルがＸ１の雇止めを決定していたとみるのが相当であり、
 <p class="c_hg-idt1" style="margin-top: 1.6em;">２　その他、パーソルが別個独立した企業体としての実質を欠き、その意思決定をＮＴＴデータが事実上支配、決定していたなどといえる事情もない。
@@ -332,7 +332,7 @@
 <p class="c_idt">ＮＴＴデータがＸ１の何らかの労働条件を直接左右していたといえる事情も認められない。
 ````
 
-```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i> 以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-e) からの引用を若干補正しています。</span>
+```{dropdown} <span class="title_q"><i class="fa-solid fa-arrows-down-to-line"></i>　以下は、命令書のこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#5-6-e) からの引用を若干補正しています。</span>
 
 <p class="c_hg-idt1">１　ＮＴＴデータの行為とＸ１の具体的な労働条件との関連を認めるに足りる事実の疎明がなされているとはいえず、また、同社が派遣先の指揮命令権を行使する立場を超えて、部分的であっても、Ｘ１の何らかの労働条件を直接左右していたといえる事情も認められない。
 
@@ -346,43 +346,51 @@
 
 ---
 
+<p class="base" style="margin-bottom: 1.6em;">
+<strong>東京都労働委員会命令書に基づく事実から経緯を記載しています。命令書本文はこちら <a href="https://minnanosaiban.github.io/judge/ntt.html#honbun"><i class="fa-solid fa-link"></i></a> に記載しています。</strong>
+
 <div class="base">
 
-<i class="fa-solid fa-arrow-right"></i> **東京都労働委員会命令書に基づく事実から経緯を記載しています。命令書本文はこちら [<i class="fa-solid fa-link"></i>](https://minnanosaiban.github.io/judge/ntt.html#honbun) に記載しています。**
+````{card}
+
+<div class="q">
 
 | 　| 　|
 |---|---|
-| <p class="table1">平成31年2月7日 | <p class="table2">・Ｘ１は、登録型派遣の形態にて、パーソルと２月７日から５月６日までの３カ月の雇用契約を締結し、ＮＴＴデータに派遣されて、業務に従事した。</p>|
-| <p class="table1">3月29日 | <p class="table2">・職場歓送迎会にて、派遣先の上司が、Ｘ１について「（職場に）長くいてほしい。」と発言した。</p>|
-| <p class="table1">3月31日 | <p class="table2">・パーソルは、Ｘ１に対し、同人の雇用契約更新の可否を確認する予定である旨を伝えており、雇用期間終了の１か月前の時期に、Ｘ１と雇用契約に係るやり取りが予定されていた。</p>|
-| <p class="table1">4月1日 | <p class="table2">・Ｘ１は、職場歓送迎会における派遣先の上司の発言に不満を覚えて、パーソルの担当者に対してメールにて苦情を申し出た。</p>|
-| <p class="table1">4月3日 | <p class="table2">・Ｘ１は体調不良により早退し、以後、４月２１日まで欠勤した。</p><p class="table2">・Ｘ１は、ＮＴＴデータ及びパーソルに対し、同人への連絡を拒否すること及び今後の対応を第三者に委ねる旨を通告した（Ｘ１は、「第三者」については具体的に明示していない。）。</p> |
-| <p class="table1">4月9日 | <p class="table2">・組合は、団体交渉申し入れにおいて、ＮＴＴデータ及びパーソルに対し、４月中旬の団体交渉開催を求めた。 </p><p class="table2">・Ｘ１は、スタッフ相談室に対し、同人の体調不良についての診断書を送付した（Ｘ１は、逐次の現状報告や復帰の見込みなどの連絡などは行っていない）。</p>|
-| <p class="table1">4月15日 | <p class="table2">・パーソルは、組合に対し、団体交渉を申し入れに対する回答の猶予を求めた。</p> |
-| <p class="table1">4月19日 | <p class="table2">・パーソルは、組合に対し、団体交渉開催日として複数の日程を提示した。</p> |
-| <p class="table1">4月22日 | <p class="table2">・パーソルは、組合に対し、令和元年５月下旬の団体交渉日程を提示した。</p> |
-| <p class="table1">4月23日 | <p class="table2">・Ｘ１は、ＮＴＴデータの上司と面談を行い、自身の派遣契約の更新有無の説明や雇止めの理由書の交付を要求した。</p><p class="table2">・Ｘ１は、就業時間終了の１０分前に退社した。</p><p class="table2">・パーソルは、Ｘ１に対し、雇止めを通知するメールを送付した。</p> |
-| <p class="table1">4月24日 | <p class="table2">・パーソルは、Ｘ１に対し、４月２３日の同人の言動には問題があるとして、今後の改善等を約束する確約書を提出しなければ、以後の出勤を認めないことなどを通知した。<p class="table2">・Ｘ１は、パーソルが提示した今後の改善等を約束する確約書に応じなかった。</p> |
-| <p class="table1">4月26日 | <p class="table2">・ＮＴＴデータは、組合の申し入れに対し、労働組合法上の使用者ではないので団体交渉に応じる義務はないが、話合いであれば応じる旨を回答した。</p><p class="table2">・パーソルは、Ｘ１に対し、「契約を更新しない理由について」と題する文書を交付した。</p> |
-| <p class="table1">令和元年5月6日 | <p class="table2">・Ｘ１の雇用期間満了日。</p> |
-| <p class="table1">5月24日 | <p class="table2">・第１回団体交渉。（組合とパーソルは、４回の団体交渉を行った。また、組合とＮＴＴデータは、２回の話合いを行った。</p> |
-| <p class="table1">5月29日 | <p class="table2">・組合とＮＴＴデータとの１回目の話合い。</p> |
-| <p class="table1">6月以降 | <p class="table2">・Ｘ１は、東京労働局及び渋谷労基署に対し、ＮＴＴデータ及びパーソルが労働者派遣法又は労働基準法の違反行為を行った旨の申告を行った。</p><p class="table2">・パーソルは東京労働局及び渋谷労基署から行政指導を受けた。<p class="table2">・ＮＴＴデータは東京労働局から行政指導を受けた。</p> |
-| <p class="table1">8月7日 | <p class="table2">・第２回団体交渉。</p> |
-| <p class="table1">10月9日 | <p class="table2">・第３回団体交渉。</p> |
-| <p class="table1">12月26日 | <p class="table2">・組合とＮＴＴデータとの２回目の話合い。</p> |
-| <p class="table1">令和2年1月22日 | <p class="table2">・第４回団体交渉。</p> |
-| <p class="table1">4月2日 | <p class="table2">・Ｘ１が６月以降に申告したことにつき、東京労働局は、パーソルに対して第１回労働局指導を行った。</p> |
-| <p class="table1">4月14日 | <p class="table2">・パーソルは、第１回労働局指導を受けて、Ｘ１へ修正した就業条件明示書を交付した。</p> |
-| <p class="table1">4月22日 | <p class="table2">・東京労働局は、第１回労働局指導を完了した。</p> |
-| <p class="table1">4月23日 | <p class="table2">・組合及びＸ１は、ＮＴＴデータ及びパーソルを被申立人として、東京都労働委員会に対して不当労働行為救済申立て（２不４１号事件）を行った。</p> |
-| <p class="table1">令和3年2月9日 | <p class="table2">・Ｘ１が６月以降に申告したことにつき、東京労働局は、パーソルに対して第２回労働局指導を行った。（対するパーソルの対応は明らかになっていない。）</p> |
-| <p class="table1">2月13日 | <p class="table2">・Ｘ１は組合から脱退し、組合は２不４１号事件の組合の申立てに係る申立てを取り下げた。</p> |
-| <p class="table1">令和4年1月27日 | <p class="table2">・Ｘ１は、ＮＴＴデータに対し、①職場に残した私物の返還、②平成３１年４月の自身の勤怠記録の交付を求めた。</p><p class="table2">・ＮＴＴデータは、①職場に残した私物はない、②勤怠記録は派遣元に報告済みである旨を回答した。</p> |
-| <p class="table1">12月20日 | <p class="table2">・Ｘ１は、ＮＴＴデータを被申立人として、①職場に残した私物の返還、②勤怠記録の交付及び③コンプライアンス通報に対するフィードバックを求めて、東京都労働委員会に不当労働行為救済申立て（４不８０号事件）を行った。</p>|
-| <p class="table1">令和5年1月23日 | <p class="table2">・Ｘ１は、パーソル及びＮＴＴデータを被申立人として、渋谷労基署又は東京労働局の是正指導に従うことなどを求めて、東京都労働委員会に不当労働行為救済申立て（５不４号事件）を行った。</p>|
-| <p class="table1">9月12日 | <p class="table2">・東京都労働委員会は、２不４１号事件、４不８０号事件及び５不４号事件を併合して審査すること及び審問を実施しないことを決定し、同日をもって調査手続を終結した。</p>|
+| <p style="font-size: 12px; white-space: nowrap;">平成31年2月7日 | <p style="font-size: 12px;">・Ｘ１は、登録型派遣の形態にて、パーソルと２月７日から５月６日までの３カ月の雇用契約を締結し、ＮＴＴデータに派遣されて、業務に従事した。</p>|
+| <p style="font-size: 12px;">3月29日 | <p style="font-size: 12px;">・職場歓送迎会にて、派遣先の上司が、Ｘ１について「（職場に）長くいてほしい。」と発言した。</p>|
+| <p style="font-size: 12px;">3月31日 | <p style="font-size: 12px;">・パーソルは、Ｘ１に対し、同人の雇用契約更新の可否を確認する予定である旨を伝えており、雇用期間終了の１か月前の時期に、Ｘ１と雇用契約に係るやり取りが予定されていた。</p>|
+| <p style="font-size: 12px;">4月1日 | <p style="font-size: 12px;">・Ｘ１は、職場歓送迎会における派遣先の上司の発言に不満を覚えて、パーソルの担当者に対してメールにて苦情を申し出た。</p>|
+| <p style="font-size: 12px;">4月3日 | <p style="font-size: 12px;">・Ｘ１は体調不良により早退し、以後、４月２１日まで欠勤した。</p><p style="font-size: 12px;">・Ｘ１は、ＮＴＴデータ及びパーソルに対し、同人への連絡を拒否すること及び今後の対応を第三者に委ねる旨を通告した（Ｘ１は、「第三者」については具体的に明示していない。）。</p> |
+| <p style="font-size: 12px;">4月9日 | <p style="font-size: 12px;">・組合は、団体交渉申し入れにおいて、ＮＴＴデータ及びパーソルに対し、４月中旬の団体交渉開催を求めた。 </p><p style="font-size: 12px;">・Ｘ１は、スタッフ相談室に対し、同人の体調不良についての診断書を送付した（Ｘ１は、逐次の現状報告や復帰の見込みなどの連絡などは行っていない）。</p>|
+| <p style="font-size: 12px;">4月15日 | <p style="font-size: 12px;">・パーソルは、組合に対し、団体交渉を申し入れに対する回答の猶予を求めた。</p> |
+| <p style="font-size: 12px;">4月19日 | <p style="font-size: 12px;">・パーソルは、組合に対し、団体交渉開催日として複数の日程を提示した。</p> |
+| <p style="font-size: 12px;">4月22日 | <p style="font-size: 12px;">・パーソルは、組合に対し、令和元年５月下旬の団体交渉日程を提示した。</p> |
+| <p style="font-size: 12px;">4月23日 | <p style="font-size: 12px;">・Ｘ１は、ＮＴＴデータの上司と面談を行い、自身の派遣契約の更新有無の説明や雇止めの理由書の交付を要求した。</p><p style="font-size: 12px;">・Ｘ１は、就業時間終了の１０分前に退社した。</p><p style="font-size: 12px;">・パーソルは、Ｘ１に対し、雇止めを通知するメールを送付した。</p> |
+| <p style="font-size: 12px;">4月24日 | <p style="font-size: 12px;">・パーソルは、Ｘ１に対し、４月２３日の同人の言動には問題があるとして、今後の改善等を約束する確約書を提出しなければ、以後の出勤を認めないことなどを通知した。<p style="font-size: 12px;">・Ｘ１は、パーソルが提示した今後の改善等を約束する確約書に応じなかった。</p> |
+| <p style="font-size: 12px;">4月26日 | <p style="font-size: 12px;">・ＮＴＴデータは、組合の申し入れに対し、労働組合法上の使用者ではないので団体交渉に応じる義務はないが、話合いであれば応じる旨を回答した。</p><p style="font-size: 12px;">・パーソルは、Ｘ１に対し、「契約を更新しない理由について」と題する文書を交付した。</p> |
+| <p style="font-size: 12px;">令和元年5月6日 | <p style="font-size: 12px;">・Ｘ１の雇用期間満了日。</p> |
+| <p style="font-size: 12px;">5月24日 | <p style="font-size: 12px;">・第１回団体交渉。（組合とパーソルは、４回の団体交渉を行った。また、組合とＮＴＴデータは、２回の話合いを行った。</p> |
+| <p style="font-size: 12px;">5月29日 | <p style="font-size: 12px;">・組合とＮＴＴデータとの１回目の話合い。</p> |
+| <p style="font-size: 12px;">6月以降 | <p style="font-size: 12px;">・Ｘ１は、東京労働局及び渋谷労基署に対し、ＮＴＴデータ及びパーソルが労働者派遣法又は労働基準法の違反行為を行った旨の申告を行った。</p><p style="font-size: 12px;">・パーソルは東京労働局及び渋谷労基署から行政指導を受けた。<p style="font-size: 12px;">・ＮＴＴデータは東京労働局から行政指導を受けた。</p> |
+| <p style="font-size: 12px;">8月7日 | <p style="font-size: 12px;">・第２回団体交渉。</p> |
+| <p style="font-size: 12px;">10月9日 | <p style="font-size: 12px;">・第３回団体交渉。</p> |
+| <p style="font-size: 12px;">12月26日 | <p style="font-size: 12px;">・組合とＮＴＴデータとの２回目の話合い。</p> |
+| <p style="font-size: 12px;">令和2年1月22日 | <p style="font-size: 12px;">・第４回団体交渉。</p> |
+| <p style="font-size: 12px;">4月2日 | <p style="font-size: 12px;">・Ｘ１が６月以降に申告したことにつき、東京労働局は、パーソルに対して第１回労働局指導を行った。</p> |
+| <p style="font-size: 12px;">4月14日 | <p style="font-size: 12px;">・パーソルは、第１回労働局指導を受けて、Ｘ１へ修正した就業条件明示書を交付した。</p> |
+| <p style="font-size: 12px;">4月22日 | <p style="font-size: 12px;">・東京労働局は、第１回労働局指導を完了した。</p> |
+| <p style="font-size: 12px;">4月23日 | <p style="font-size: 12px;">・組合及びＸ１は、ＮＴＴデータ及びパーソルを被申立人として、東京都労働委員会に対して不当労働行為救済申立て（２不４１号事件）を行った。</p> |
+| <p style="font-size: 12px;">令和3年2月9日 | <p style="font-size: 12px;">・Ｘ１が６月以降に申告したことにつき、東京労働局は、パーソルに対して第２回労働局指導を行った。（対するパーソルの対応は明らかになっていない。）</p> |
+| <p style="font-size: 12px;">2月13日 | <p style="font-size: 12px;">・Ｘ１は組合から脱退し、組合は２不４１号事件の組合の申立てに係る申立てを取り下げた。</p> |
+| <p style="font-size: 12px;">令和4年1月27日 | <p style="font-size: 12px;">・Ｘ１は、ＮＴＴデータに対し、①職場に残した私物の返還、②平成３１年４月の自身の勤怠記録の交付を求めた。</p><p style="font-size: 12px;">・ＮＴＴデータは、①職場に残した私物はない、②勤怠記録は派遣元に報告済みである旨を回答した。</p> |
+| <p style="font-size: 12px;">12月20日 | <p style="font-size: 12px;">・Ｘ１は、ＮＴＴデータを被申立人として、①職場に残した私物の返還、②勤怠記録の交付及び③コンプライアンス通報に対するフィードバックを求めて、東京都労働委員会に不当労働行為救済申立て（４不８０号事件）を行った。</p>|
+| <p style="font-size: 12px;">令和5年1月23日 | <p style="font-size: 12px;">・Ｘ１は、パーソル及びＮＴＴデータを被申立人として、渋谷労基署又は東京労働局の是正指導に従うことなどを求めて、東京都労働委員会に不当労働行為救済申立て（５不４号事件）を行った。</p>|
+| <p style="font-size: 12px;">9月12日 | <p style="font-size: 12px;">・東京都労働委員会は、２不４１号事件、４不８０号事件及び５不４号事件を併合して審査すること及び審問を実施しないことを決定し、同日をもって調査手続を終結した。</p>|
 
+</div>
+
+````
 </div>
 
 ## 命令書解説
@@ -395,11 +403,16 @@
 ## 命令書本文
 
 ---
-<p class="base" style="margin-bottom: 1.6em;">引用元：東京都労働委員会ホームページ <a href="https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html"><i class="fa-solid fa-up-right-from-square"></i></a> 
+<p class="base" style="margin-bottom: 1.6em;">
+<strong>以下の quote 枠内は、東京都労働委員会命令書の引用です。</strong>
 
 <div class="base">
 <blockquote>
-<p class="q_center" style="margin-top: 1.6em; margin-bottom: 1.6em;"><a name="honbun"></a>
+
+<p class="q" style="margin-bottom: 1.4em;">
+引用元：東京都労働委員会ホームページ <a href="https://www.toroui.metro.tokyo.lg.jp/image/2024/meirei2-41.html"><i class="fa-solid fa-up-right-from-square"></i></a> 
+
+<p class="q_center" style="margin-top: 1.4em; margin-bottom: 1.4em;"><a name="honbun"></a>
 <b>パーソルテンプスタッフ事件命令書交付について</b>
 <p class="q_idt">当委員会は、３月６日、標記の不当労働行為救済申立事件について、命令書を交付しましたのでお知らせします。命令書の概要は、以下のとおりです（詳細は別紙）。
 <p class="q_hg-idt1">１　当事者　
@@ -446,7 +459,7 @@
 <p class="q_idt2">ＮＴＴデータは、部分的であっても、Ｘ１の基本的な労働条件等を雇用主と同視できる程度に、現実的かつ具体的に支配、決定することができる地位にあるとはいえず、Ｘ１又は組合との関係において、労組法上の使用者に当たるとはいえない。そうすると、その余を判断するまでもなく、争点６－１ないし争点６－７におけるＮＴＴデータの行為が不当労働行為に当たるとはいえない。
 <p class="q_hg-idt2">⑺　争点７について
 <p class="q_idt2">本件申立ての各事実が組合運営に対する支配介入に当たるといえないことは、上記判断のとおりであるから、争点７は判断を要しない。
-<p class="q" style="margin-top: 1.6em; margin-bottom: 1.6em;">
+<p class="q" style="margin-top: 1.4em; margin-bottom: 1.4em;">
 【別紙】
 <p class="q_hg-idt1">１　当事者の概要
 <p class="q_hg-idt2">⑴　申立人Ｘ１は、いわゆる登録型派遣の形態にて、パーソルテンプスタッフ（以下「パーソル」という。）と３か月間の雇用契約を締結し、平成31年２月７日からＮＴＴデータに派遣されて業務に従事していた。Ｘ１は、31年１月に申立外首都圏なかまユニオン（以下「組合」という。）に加入し、組合は同年４月に同人の加入を公然化して両社との間で団体交渉又は話合いを行ったが、Ｘ１は、２不41号事件申立て後に組合を脱退した。
